@@ -1,0 +1,10 @@
+export const MAKE_ACTIVE = 'MENU/MAKE_ACTIVE';
+export const FOCUS = 'INPUT/TOGGLE_FOCUS';
+export const SET_VALUE = 'INPUT/SET_VALUE';
+export const MODAL = 'MODAL/TOGGLE_ACTIVE';
+export const ADD = 'TODO/ADD';
+export const REMOVE = 'TODO/REMOVE';
+export const CHANGE = 'TODO/CHANGE';
+export const PAGE = 'MENU/PAGE';
+export const SHOW_MESSAGE = 'MESSAGE/SHOW';
+export const HIDE_MESSAGE = 'MESSAGE/HIDE';
